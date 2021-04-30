@@ -12,5 +12,5 @@
 
 5. Known bugs include:
 	1- Sometimes error exception will be thrown when pulling new employee salary.
-6. Pass code : 0313 (any employee ID within employee.txt)
+6. Pass code : 7777 (any employee ID within employee.txt)
 7. Java 1.8 compiler
